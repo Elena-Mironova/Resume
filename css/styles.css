@@ -19,7 +19,7 @@ body {
 .content {
     background-color: #e7e7e7;
     width: 700px;
-    padding: 50px 20px;
+    padding: 20px 20px;
 }
 
 .container {
@@ -136,7 +136,7 @@ h2 span:after {
 }
 
 .about {
-    margin-bottom: 50px;
+    margin-bottom: 40px;
 }
 
 .about p {
@@ -144,7 +144,7 @@ h2 span:after {
 }
 
 .jobs__item:nth-last-child(n+2) {
-    margin-bottom: 40px;
+    margin-bottom: 30px;
 }
 
 .job__title {
